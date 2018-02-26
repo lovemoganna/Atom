@@ -8,9 +8,10 @@
 ## git plus 的使用
 ```
 1.添加到暂存区
-git add all
 2.添加提交信息
-git commit all
 3. push到远程库
-push set Upstream
+
+最重要的是你要保存文件(ctrl+s),在右侧的Git窗口下,将待提交的文件移到暂存区中,然后commit,最终push.
+
+需要输入账户和密码.
 ```
