@@ -41,5 +41,6 @@ HTML JS CSS
 运用HTML和CSS来实现页面,表达信息.
 运用XMLHttprequest和Web服务器进行数据的异步交换.
 ```
-
+```
 var new XMLHTTPRequest();
+```
