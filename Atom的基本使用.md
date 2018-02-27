@@ -55,7 +55,7 @@ categories:
 
 这个图片其实是保存在本地,Atom给你解析准成链接到GitHub了.
 
-可以随便拿出一张链接看看:
+我们可以可以随便拿出一张链接看看:
 
 ```
 https://github.com/lovemoganna/Atom/blob/master/images/2018/02/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87.png
