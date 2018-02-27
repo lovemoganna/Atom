@@ -56,12 +56,27 @@ categories:
 这个图片其实是保存在本地,Atom给你解析准成链接到GitHub了.
 
 我们可以可以随便拿出一张链接看看:
-``
+```
 https://github.com/lovemoganna/Atom/blob/master/images/2018/02/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87.png
 ```
-
-![图片保存地址](images/2018/02/图片保存地址.png)
-
-![tu](images/2018/02/tu.png)
-
 这个用的最爽!!!
+
+## git-plus的使用
+
+一开始我不知道怎么用,但是探索一下就知道怎么用了.说明一个问题:别上火,慢慢来,你就会了.
+
+就拿上面的图片上传来说.
+
+1. 你需要进入,总命令行: `ctrl+shift+p`
+2. 下面的命令都是选择带有git-plus的命令的.
+2. 输入`git add all`
+3. 输入`git commit all`或者不厌其烦的一个个commit.会出现一个文件,你在第一行输入commit信息,ctrl+s保存就可以commit了.
+4. 输入`git push`,你要是没用github关联Atom,还要输入它的Token.就不用一遍一遍的输入用户名和密码了.
+
+或者先用原生的命令关联远程仓库
+
+`git remote add origin 你的GitHub仓库地址`
+
+第一次坑爹,要合并参仓库,就是那个README.md惹的祸.
+
+输入`git pull --rebase origin master`就可以了
