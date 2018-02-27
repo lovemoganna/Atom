@@ -5,7 +5,7 @@
 选中一行:ctrl+l
 输入命令行:ctrl+shift+p
 ```
-## git plus 的使用
+## git 的使用
 ```
 1.添加到暂存区
 2.添加提交信息
@@ -22,3 +22,16 @@
 查看日志:
 
 ![](http://upload-images.jianshu.io/upload_images/7505161-d84110d6f6fc9bcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 支持了开发者工具
+
+查看/开发人员/开发工具/
+
+快捷键:ctrl+shift+i
+
+![小孩](/images/2018/02/小明.png)
+
+![测试图片](images/2018/02/测试图片.png)
+
+
+类似于Google的F12.
