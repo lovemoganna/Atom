@@ -1,4 +1,6 @@
+
 # ajax的跨域请求
+
 ==
 
 AJAX的全称:Asychronus JavaScript and XML(异步的JavaScript和XML)
@@ -7,7 +9,7 @@ AJAX的全称:Asychronus JavaScript and XML(异步的JavaScript和XML)
 
 HTML JS CSS
 
-正确读音: A 贾克斯.  哈哈
+正确读音: A 贾克斯. 哈哈
 
 ## 同步的概念
 
@@ -19,8 +21,7 @@ HTML JS CSS
 
 ## AJAX的出现--异步操作
 
-当你填写东西的时候,它当时就会把你填写的东西发送给服务器,服务器处理请求,响应.
-来判断你是否填写的正确.把相应结果发送给页面.
+当你填写东西的时候,它当时就会把你填写的东西发送给服务器,服务器处理请求,响应. 来判断你是否填写的正确.把相应结果发送给页面.
 
 但是在这个过程中,你还是可以进行别的操作,而不是刷新页面,重新填写整个表单.
 
@@ -37,10 +38,12 @@ HTML JS CSS
 实际上就是后台和服务器交换数据,数据的交换不用重新加载页面.并且可以对网页进行部分的更新.
 
 ## AJAX的构成
+
 ```
 运用HTML和CSS来实现页面,表达信息.
 运用XMLHttprequest和Web服务器进行数据的异步交换.
 ```
+
 ```
 var new XMLHTTPRequest();
 ```
