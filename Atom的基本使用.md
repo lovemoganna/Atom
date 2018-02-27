@@ -1,3 +1,13 @@
+---
+layout: post
+title: Atom的基本使用
+date: '2018-02-27 10:15'
+tags:
+  - Atom
+categories:
+  - Atom
+---
+
 ## Atom常用命令:
 ```
 项目内查找文件:ctrl+p
@@ -27,11 +37,30 @@
 
 查看/开发人员/开发工具/
 
-快捷键:ctrl+shift+i
+展示:
 
-![小孩](/images/2018/02/小明.png)
-
-![测试图片](images/2018/02/测试图片.png)
-
+![开发者工具](images/2018/02/开发者工具.png)
 
 类似于Google的F12.
+
+## 支持图片解析
+
+这真是一个最NB的技术,以前还需要图床解析到简书.
+
+确实人家牛B,你截图完了以后,按快捷键,ctrl+shift+i.,输入以后,Atom会把图片自动给你解析到github.至于侵犯隐私什么的,我只是一个无名小卒,恐怕人家没工夫瞅咱把.
+
+展示:
+
+![自动解析文件到GitHub](images/2018/02/自动解析文件到github.png)
+
+这个图片其实是保存在本地,Atom给你解析准成链接到GitHub了.
+
+可以随便拿出一张链接看看:
+
+```
+https://github.com/lovemoganna/Atom/blob/master/images/2018/02/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87.png
+```
+
+![图片保存地址](images/2018/02/图片保存地址.png)
+
+这个用的最爽!!!
