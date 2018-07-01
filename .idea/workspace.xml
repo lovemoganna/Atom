@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b650d0a-8a22-4f4b-8ddb-731ac9a8d78a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/git-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/git/git-flow.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,7 +16,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="git-flow.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/git/git-flow.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="445">
+                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +50,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="152" />
     <option name="y" value="23" />
     <option name="width" value="1091" />
@@ -54,11 +68,6 @@
             <path>
               <item name="Atom" type="b2602c69:ProjectViewProjectNode" />
               <item name="Atom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Atom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Atom" type="462c0819:PsiDirectoryNode" />
-              <item name="atom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Atom" type="b2602c69:ProjectViewProjectNode" />
@@ -105,18 +114,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="749000" />
+    <option name="totallyTimeSpent" value="1403000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="152" y="23" width="1091" height="699" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.30360532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983165" visible="true" weight="0.23791821" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" visible="true" weight="0.30360532" />
+      <window_info id="Structure" order="1" sideWeight="0.5016835" side_tool="true" weight="0.23791821" />
       <window_info anchor="bottom" id="CSS-X-Fire" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -142,8 +152,8 @@
     <entry file="file://$PROJECT_DIR$/git/git-flow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="329">
-            <caret line="32" column="131" lean-forward="true" selection-start-line="32" selection-start-column="131" selection-end-line="32" selection-end-column="131" />
+          <first_editor relative-caret-position="445">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           </first_editor>
           <second_editor />
         </state>

@@ -33,3 +33,9 @@ Bug修复分支，基于master分支或发布的里程碑Tag克隆，主要用�
 ![](https://upload-images.jianshu.io/upload_images/7505161-0bc3c6c5cfbbc8d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+## gitflow中开发新功能的实现
+
+现在我正在做的就是编写gitflow的使用方法,这就是一个新功能.
+
+![](https://upload-images.jianshu.io/upload_images/7505161-51cb05903a09a1cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
