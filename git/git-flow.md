@@ -33,3 +33,23 @@ Bug修复分支，基于master分支或发布的里程碑Tag克隆，主要用�
 ![](https://upload-images.jianshu.io/upload_images/7505161-0bc3c6c5cfbbc8d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+## gitflow中开发新功能的实现
+
+现在我正在做的就是编写gitflow的使用方法,这就是一个新功能.
+
+![](https://upload-images.jianshu.io/upload_images/7505161-51cb05903a09a1cb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+```
+然后本地commit代码,提交到本地.
+
+当然了，这仅仅是commit到本地，因为这始终是git，我们还需要push到远端。
+```
+
+提交过几次代码之后，功能已经开发完毕，可以回归到develop了
+
+此时有三个分支.
+
+![](https://upload-images.jianshu.io/upload_images/7505161-2f80884f446fcbf0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+这时候就需要我们将这个分支合并到远程仓库,并将其删除.
+
