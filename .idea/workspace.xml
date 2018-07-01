@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b650d0a-8a22-4f4b-8ddb-731ac9a8d78a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git/git-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/git/git-flow.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,7 +50,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="152" />
     <option name="y" value="23" />
     <option name="width" value="1091" />
