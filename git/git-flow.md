@@ -57,5 +57,7 @@ Bug修复分支，基于master分支或发布的里程碑Tag克隆，主要用�
 
 ## 使用git-flow发布版本
 
+bug修复分支，是基于 master的，在修复bug后，再次点击 git flow 弹出，完成 补丁修复.
 
+新修复的bug分支，会合并到 master分支和develop分支.
 
